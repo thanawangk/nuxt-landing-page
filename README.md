@@ -1,4 +1,4 @@
-# Nuxt Landing Page
+# Simple Nuxt Landing Page
 
 A responsive landing page starter built with **[Nuxt 3](https://nuxt.com/)** **TypeScript** and **Vuetify**.
 
