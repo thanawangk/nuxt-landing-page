@@ -1,0 +1,19 @@
+.main-content {
+    flex: 1;
+    padding-top: 60px;
+    /* default for mobile */
+}
+
+@media (min-width: 600px) {
+    .main-content {
+        padding-top: 60px;
+        /* tablet */
+    }
+}
+
+@media (min-width: 960px) {
+    .main-content {
+        padding-top: 80px;
+        /* desktop */
+    }
+}
